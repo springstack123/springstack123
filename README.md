@@ -142,6 +142,7 @@ I'd love to connect, discuss ideas, or explore collaboration opportunities!
 - **📧 Email:** [ankitagaikad073@gmail.com](mailto:ankitagaikad073@gmail.com)
 - **💼 LinkedIn:** [Ankita S. Gaikwad](https://www.linkedin.com/in/ankita-s-gaikwad/)
 - **💻 GitHub:** [@springstack123](https://github.com/springstack123)
+- **🧩 LeetCode:** [springstack123](https://leetcode.com/u/springstack123/)
 
 ---
 
