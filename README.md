@@ -40,37 +40,30 @@
 </p>
 
 
-## 🛠️ Languages & Tools
+<h2 align="center">🛠️ Languages & Tools</h2>
 
-> ## Programming Languages
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /></p>
+<p align="center">
 
-<h2>⚡ Tech Stack</h2>
+<!-- Programming -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
 
-<h3>Frontend</h3>
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+<!-- Frontend -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="45" height="45"/>
+
+<!-- Backend -->
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45"/>
+
+<!-- Database -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/>
+
+<!-- Tools -->
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45"/>
+
 </p>
-
-<h3>Backend</h3>
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/>
-</p>
-
-<h3>Database</h3>
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
-</p>
-
-<h3>Tools</h3>
-<p>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
-</p>
-
 <p align="center">
   <a href="https://github.com/springstack123">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=springstack123&langs_count=8&layout=compact&theme=github_dark&border_radius=10" alt="Top Languages" />
