@@ -1,184 +1,71 @@
-# Hi there! 👋 I'm Ankita Gaikwad
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm Ankita Santosh Gaikwad</h1>
+<h3 align="center">Full Stack Developer | Java | React</h3>
 
-## MCA Student | Java Developer | AI-ML Enthusiast
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=springstack123">
+    <img src="https://komarev.com/ghpvc/?username=springstack123&label=Profile%20views&color=00FFFF&style=flat-square" alt="springstack123's profile views" />
+  </a>
+</p>
 
-Welcome to my corner of GitHub! I'm passionate about building smart, scalable web applications and exploring the intersection of software engineering and artificial intelligence.
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUH7ZjMdWxblQXkgmQZ1xyt0H6-flqhZeHzg&s" alt="Banner" width="100%" />
 
----
+## 📌 About Me
+- 🌱 I’m currently learning Advanced Spring Boot & Microservices
+- 💻 I’m working on AI-Based Resume Analyzer
+- 🤝 I’m looking to collaborate on Java Full Stack Projects
+- 🚀 Passionate about Building Web Applications
 
-## 🚀 About Me
 
-I'm a driven developer focused on crafting clean, maintainable code and creating impactful solutions. With expertise in **Java**, **Spring Boot**, and emerging **AI-ML** technologies, I enjoy solving complex problems and continuously expanding my technical horizons.
+## 🧠 My Focus Areas
+- Java Backend Development
+- Spring Boot & REST APIs
+- Full Stack Web Development
+- MySQL Database Design
 
-**Philosophy:** *"Code is like humor. When you have to explain it, it's bad."* — I believe in writing self-documenting, elegant code that speaks for itself.
 
-- 🌍 Based in **Pune, Maharashtra, India**
-- 🎓 Pursuing **Master of Computer Applications (MCA)**
-- 🖥️ Full-stack development with a backend focus
-- 🧠 Currently learning **Python & Advanced ML Concepts**
-- 💡 Passionate about **clean architecture**, **scalable systems**, and **innovative solutions**
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=springstack123&theme=github_dark&hide_border=true&cache_seconds=86400" alt="springstack123's GitHub Streak" width="49%" />
+</p>
 
----
 
-## 💼 Core Competencies
+## 🛠️ Languages & Tools
 
-### Backend Development
-- **Languages:** Java, SQL
-- **Frameworks:** Spring Boot, Spring MVC, Spring Data JPA, Hibernate
-- **Architecture:** Microservices, RESTful APIs, MVC Pattern
-- **Databases:** MySQL, PostgreSQL, MongoDB
+> ## Programming Languages
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /></p>
 
-### Frontend Technologies
-- **Languages:** JavaScript, HTML5, CSS3
-- **Frameworks:** React.js
-- **Skills:** Responsive Design, UI/UX Implementation, Component Architecture
+> ## Frontend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /></p>
 
-### AI & Machine Learning
-- **Languages:** Python (currently learning)
-- **Libraries:** TensorFlow, Scikit-Learn, Pandas, NumPy
-- **Skills:** Data Preprocessing, Feature Engineering, Model Training & Evaluation
+> ## Backend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="48" height="48" style="margin: 4px;" /></p>
 
-### Tools & Technologies
-- **Version Control:** Git & GitHub
-- **Build Tools:** Maven, Gradle
-- **Containerization:** Docker
-- **IDEs:** IntelliJ IDEA, VS Code, Eclipse
-- **API Testing:** Postman
-- **Platforms:** Linux, Windows
+> ## Database
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" /></p>
 
----
+> ## DevOps & Cloud
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /></p>
 
-## 🎯 Featured Projects
+> ## Tools
+<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
 
-### 📱 Blog Application
-**Technologies:** Spring Boot, React, MySQL  
-A comprehensive full-stack blogging platform showcasing modern development practices.
+<p align="center">
+  <a href="https://github.com/springstack123">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=springstack123&langs_count=8&layout=compact&theme=github_dark&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
 
-**Key Features:**
-- User authentication and authorization
-- Create, Read, Update, Delete (CRUD) operations for blog posts
-- Comment management system
-- Responsive UI with React
-- Clean separation of concerns with Spring Boot backend
+## 🔗 Connect with Me
+<p align="left"> <a href="www.linkedin.com/in/ankita-s-gaikwad" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Ankita Santosh Gaikwad's LinkedIn"/></a> <a href="https://x.com/AnkitaGaik13263" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=FF00FF" alt="Ankita Santosh Gaikwad's Twitter"/></a> <a href="mailto:ankitagaikwad073@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Ankita Santosh Gaikwad's Email"/></a> <a href="https://wa.me/918766091095" target="_blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a></p>
 
-**What You'll Learn:** Full-stack development, REST API design, database relationships, frontend-backend integration
+## 💬 Quote
+> Passionate about building scalable web applications and solving real-world problems with code.
 
-**Repository:** [Blog App](https://github.com/springstack123/blog-app)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
 
----
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
-### 💼 E-Commerce Portal
-**Technologies:** Spring Boot, React, PostgreSQL  
-A scalable e-commerce platform demonstrating enterprise-level architecture.
-
-**Key Features:**
-- Product catalog with advanced filtering
-- Shopping cart and order management
-- User authentication with role-based access control
-- Payment integration
-- Comprehensive API documentation
-
----
-
-### 🤖 AI-ML Projects
-**Technologies:** Python, TensorFlow, Scikit-Learn  
-Hands-on exploration of machine learning concepts and applications.
-
-**Focus Areas:**
-- Data analysis and visualization
-- Classification and regression models
-- Neural networks and deep learning basics
-- Real-world dataset handling
-
----
-
-## 🛠️ Technical Skills Matrix
-
-| Category | Skills |
-|----------|--------|
-| **Languages** | Java, JavaScript, Python, SQL, HTML5, CSS3 |
-| **Backend** | Spring Boot, Spring MVC, Spring Data JPA, Hibernate, Microservices |
-| **Frontend** | React.js, HTML5, CSS3, Responsive Design, Component Architecture |
-| **Databases** | MySQL, PostgreSQL, MongoDB, JDBC |
-| **AI-ML** | TensorFlow, Scikit-Learn, Data Preprocessing, Feature Engineering |
-| **DevOps** | Docker, Maven, Git, Linux |
-| **Tools** | IntelliJ IDEA, VS Code, Postman, GitHub, Eclipse |
-
----
-
-## 🎓 What I'm Learning
-
-- 🐍 **Python Programming** - Strengthening fundamentals for ML development
-- 📊 **Advanced Machine Learning** - Deep diving into neural networks and complex models
-- ☁️ **Cloud Technologies** - AWS, Google Cloud Platform, Azure
-- 🐳 **DevOps & Containerization** - Kubernetes, Docker, CI/CD pipelines
-- 🔐 **System Design** - Building scalable, distributed systems
-
----
-
-## 🤝 Let's Collaborate!
-
-I'm enthusiastic about working on:
-- ✨ **Java & Spring Boot Applications** - Backend systems, APIs, microservices
-- 🌐 **Full-Stack Projects** - End-to-end web applications
-- 🤖 **AI-ML Implementations** - Machine learning models and data science projects
-- 🔧 **Open Source Contributions** - Contributing to and learning from the community
-- 💻 **Innovation Projects** - Exploring emerging technologies and novel solutions
-
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=springstack123&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=springstack123&layout=compact&theme=default)
-
----
-
-## 📫 Get in Touch
-
-I'd love to connect, discuss ideas, or explore collaboration opportunities!
-
-- **📧 Email:** [ankitagaikad073@gmail.com](mailto:ankitagaikad073@gmail.com)
-- **💼 LinkedIn:** [Ankita S. Gaikwad](https://www.linkedin.com/in/ankita-s-gaikwad/)
-- **💻 GitHub:** [@springstack123](https://github.com/springstack123)
-- **🧩 LeetCode:** [springstack123](https://leetcode.com/u/springstack123/)
-
----
-
-## 🌟 My Development Philosophy
-
-1. **Code Quality First** - Write code that's clean, readable, and maintainable
-2. **Think Scalable** - Design solutions with growth and future expansion in mind
-3. **Continuous Learning** - Stay updated with industry trends and emerging technologies
-4. **Problem Solving** - Approach challenges analytically and find elegant solutions
-5. **Team Collaboration** - Value communication and knowledge sharing with peers
-
----
-
-## 📈 Current Focus
-
-- 🔨 Building a **robust backend system** for the blog application
-- 📚 Mastering **Python** for machine learning applications
-- 🎨 Improving **UI/UX skills** for better frontend experiences
-- 🌐 Exploring **cloud-native architectures** and containerization
-- 🤖 Diving deeper into **neural networks** and **deep learning**
-
----
-
-## 💬 Fun Fact
-
-*"Code is like humor. When you have to explain it, it's bad."*  
-I believe great code should be self-explanatory, well-structured, and a joy to work with!
-
----
-
-<div align="center">
-
-### Let's Build Something Amazing! 🚀
-
-Feel free to explore my repositories, open discussions, or reach out for collaboration. I'm always excited to work on innovative projects and learn from the community!
-
-**Made with ❤️ by Ankita Gaikwad**
-
-</div>
