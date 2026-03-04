@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUH7ZjMdWxblQXkgmQZ1xyt0H6-flqhZeHzg&s" alt="Banner" width="100%" />
+<img src="https://i.pinimg.com/originals/31/79/3b/31793bea5b0655dd21447c8981c81b08.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - 🌱 I’m currently learning Advanced Spring Boot & Microservices
@@ -68,4 +68,8 @@
 </picture>
 
 <p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
+</div>
 
