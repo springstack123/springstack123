@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/31/79/3b/31793bea5b0655dd21447c8981c81b08.gif" alt="Banner" width="100%" />
+<img src="https://i.pinimg.com/originals/48/72/59/487259006ebb768d17f7ec4497969876.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - 🌱 I’m currently learning Advanced Spring Boot & Microservices
